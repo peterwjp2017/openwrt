@@ -39,6 +39,6 @@ Add "src-git lienol https://github.com/Lienol/openwrt-package" to feeds.conf.def
 Or download it yourself and put it in the package folder. make after enjoy...
 
 1. If you use Luci-19, Please selected the "luci-compat" and "luci-lib-ipkg" before compile
-2. Select curl before compile. /passwall && clash use curl to get subscription & connection test
+2. Select <curl && wget network--> file_transfer> before compile. /passwall && clash use curl/wget to get subscription & connection test
 
 
